@@ -1,7 +1,7 @@
 - 👋 Olá, sou o @Claudinei-Wentz;
 - 👀 Estou interessado em aprender mais sobre tecnologias; 
 - 🌱 Estou aprendendo no momento html, css, php e JS;
-- 💞️ Estou procurando ajudar aos demais com tudo que for possível dentro do meu conhecimento e aprender tudo que não estiver ao meu alcance...
+- 💞️ Estou procurando ajudar aos demais com tudo que for possível dentro do meu conhecimento e aprender tudo que estiver ao meu alcance...
 - 📫 Você pode me encontrar em claudinei.wentzz@gmail.com;
 
 <!---
