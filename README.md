@@ -9,7 +9,7 @@
 <ul>
   <li>Desenvolvo sistemas no meu tempo livre,  sem fins lucrativos, com a única finalidade de beneficiar o maior número de pessoas.</li>
   <li>Criação de <strong>sistemas web</strong> com integrações de banco de dados <strong>MySQL</strong>.</li>
-  <li>Sempre de olho em novas tecnologias e práticas que podem melhorar a performance e usabilidade dos sistemas.</li>
+  <li>Sempre de olho em novas tecnologias e práticas que podem melhorar a segurança, performance e usabilidade dos sistemas.</li>
 </ul>
 
 <hr>
